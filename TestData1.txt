@@ -1,0 +1,5 @@
+CM,50;Chicago;Miami
+CB,56;Chicago;Baltimore
+BT,32;Baltimore;Texas
+BM,69;Baltimore;Miami
+MD,84;Miami;Dominican Republic
